@@ -1,0 +1,6 @@
+argparse
+requests
+python-dotenv
+rich
+paramiko
+cryptography
