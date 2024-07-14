@@ -101,6 +101,10 @@ https://ingestion-monitoring-service.platform.gcp.oreilly.review/admin/product-s
 
 https://cowbird.platform.gcp.oreilly.review/admin/portal/safariportalsubmission/
 
+You will need to approve the work in the portal before you can view it on the site, like this:
+
+![Approve in Portal](ingestion-portal-approval.png)
+
 ## Force a reload of a book to QA
 
 We have a special Jenkins job for this at https://jenkins.common-build.gcp.oreilly.com/job/MetaCon/job/tools/job/send-product-to-qa/
